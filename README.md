@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajkumbhani&label=Profile%20views&color=0e75b6&style=flat" alt="surajkumbhani" /> </p>
 
-- 🔭 I’m currently working on **a Us based Stem-Scope Education Project, which uses ReactJs, TypeScript, React GraphQl**
+- 🔭 I’m currently working on **a US based Stem-Scope Education Project, which uses ReactJs, TypeScript, React GraphQl**
 
 - 🌱 I’m currently learning **The Advanced concept of ReactJs for Industry Ready Developer**
 
